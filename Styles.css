@@ -1,0 +1,31 @@
+.top-section{
+    background-color: black;
+    display :flex;
+    justify-content: space-between;
+    align-items: center;
+    color:aliceblue
+
+}
+.left-corn{
+ display: flex;
+ justify-content: end;
+ align-items: center;
+}
+.left-corn h1{
+    font-size: 25px;
+}
+ .right-corn{
+    display: flex;
+    justify-content: space-evenly;
+ }
+
+ .right-corn h3{
+    margin-right: 15px;
+ }
+ .socialmedia-icons{
+    display:flex;
+    justify-content: space-evenly;
+     width: 250px;
+     
+
+ }
